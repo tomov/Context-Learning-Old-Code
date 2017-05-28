@@ -1,0 +1,225 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2015 The MathWorks, Inc.
+                   R2015b (8.6.0.267246) 64-bit (glnxa64)
+                              August 20, 2015
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+
+	Academic License
+
+
+
+ ------- fmri_data? 0, fixed effects? 0 ----------
+
+... Fitting model 1 (fmri data? 0 fixed effects? 0 which structs [1 1 1 0])
+Subject 1
+Subject 2
+Subject 3
+Subject 4
+Subject 5
+Subject 6
+Subject 7
+Subject 8
+Subject 9
+Subject 10
+    Prior variance = 0.0941, inverse softmax temp = 0.1370, bic = 28.0983
+    Prior variance = 136.7871, inverse softmax temp = 97.7802, bic = 228.1911
+    Prior variance = 224.3601, inverse softmax temp = 111.6711, bic = 156.1172
+    Prior variance = 297.9320, inverse softmax temp = 187.7146, bic = 112.2554
+... Fitting model 2 (fmri data? 0 fixed effects? 0 which structs [1 0 0 0])
+Subject 1
+Subject 2
+Subject 3
+Subject 4
+Subject 5
+Subject 6
+Subject 7
+Subject 8
+Subject 9
+Subject 10
+    Prior variance = 0.0099, inverse softmax temp = 0.0274, bic = 252.3822
+    Prior variance = 266.3401, inverse softmax temp = 260.7811, bic = 286.2199
+    Prior variance = 291.9006, inverse softmax temp = 242.7471, bic = 286.7644
+    Prior variance = 300.0544, inverse softmax temp = 281.6044, bic = 240.8417
+... Fitting model 3 (fmri data? 0 fixed effects? 0 which structs [0 1 0 0])
+Subject 1
+Subject 2
+Subject 3
+Subject 4
+Subject 5
+Subject 6
+Subject 7
+Subject 8
+Subject 9
+Subject 10
+    Prior variance = 1.0000, inverse softmax temp = 1.0000, bic = 79.3538
+    Prior variance = 148.5936, inverse softmax temp = 119.9199, bic = 234.6301
+    Prior variance = 237.1164, inverse softmax temp = 124.8114, bic = 181.4717
+    Prior variance = 301.8883, inverse softmax temp = 211.9336, bic = 139.3996
+... Fitting model 4 (fmri data? 0 fixed effects? 0 which structs [0 0 1 0])
+Subject 1
+Subject 2
+Subject 3
+Subject 4
+Subject 5
+Subject 6
+Subject 7
+Subject 8
+Subject 9
+Subject 10
+    Prior variance = 0.0154, inverse softmax temp = 0.0056, bic = 169.3186
+    Prior variance = 210.6639, inverse softmax temp = 196.7227, bic = 242.2243
+    Prior variance = 260.5771, inverse softmax temp = 168.2795, bic = 228.8388
+    Prior variance = 303.2422, inverse softmax temp = 233.9659, bic = 186.3742
+
+
+ ------- fmri_data? 0, fixed effects? 1 ----------
+
+... Fitting model 5 (fmri data? 0 fixed effects? 1 which structs [1 1 1 0])
+Subject 1
+    Prior variance = 1.0000, inverse softmax temp = 1.9160, bic = 1730.7093
+... Fitting model 6 (fmri data? 0 fixed effects? 1 which structs [1 0 0 0])
+Subject 1
+    Prior variance = 0.0154, inverse softmax temp = 1.2175, bic = 2654.0104
+... Fitting model 7 (fmri data? 0 fixed effects? 1 which structs [0 1 0 0])
+Subject 1
+    Prior variance = 1.0000, inverse softmax temp = 1.7318, bic = 1849.5009
+... Fitting model 8 (fmri data? 0 fixed effects? 1 which structs [0 0 1 0])
+Subject 1
+    Prior variance = 0.0128, inverse softmax temp = 1.7353, bic = 2206.8409
+
+
+ ------- fmri_data? 1, fixed effects? 0 ----------
+
+... Fitting model 9 (fmri data? 1 fixed effects? 0 which structs [1 1 1 0])
+Subject 1
+Subject 2
+Subject 3
+Subject 4
+Subject 5
+Subject 6
+Subject 7
+Subject 8
+Subject 9
+Subject 10
+Subject 11
+Subject 12
+Subject 13
+Subject 14
+Subject 15
+Subject 16
+Subject 17
+Subject 18
+Subject 19
+Subject 20
+    Prior variance = 0.1440, inverse softmax temp = 1.0000, bic = 169.1800
+    Prior variance = 182.0371, inverse softmax temp = 147.4945, bic = 174.6188
+    Prior variance = 297.0407, inverse softmax temp = 211.9349, bic = 185.5342
+    Prior variance = 130.7613, inverse softmax temp = 111.4174, bic = 245.6575
+    Prior variance = 217.9646, inverse softmax temp = 170.1536, bic = 51.7938
+    Prior variance = 188.1846, inverse softmax temp = 129.8813, bic = 211.7405
+    Prior variance = 105.3941, inverse softmax temp = 201.8108, bic = 198.7871
+    Prior variance = 98.9697, inverse softmax temp = ... Fitting model 10 (fmri data? 1 fixed effects? 0 which structs [1 0 0 0])
+Subject 1
+Subject 2
+Subject 3
+Subject 4
+Subject 5
+Subject 6
+Subject 7
+Subject 8
+Subject 9
+Subject 10
+Subject 11
+Subject 12
+Subject 13
+Subject 14
+Subject 15
+Subject 16
+Subject 17
+Subject 18
+Subject 19
+Subject 20
+    Prior variance = 0.0235, inverse softmax temp = 0.0542, bic = 280.3067
+    Prior variance = 282.5088, inverse softmax temp = 283.3492, bic = 285.0702
+    Prior variance = 298.3194, inverse softmax temp = 281.3761, bic = 264.7636
+    Prior variance = 256.1700, inverse softmax temp = 274.5012, bic = 303.6471
+    Prior variance = 270.2592, inverse softmax temp = 271.9093, bic = 239.0950
+    Prior variance = 281.4993, inverse softmax temp = 279.3105, bic = 299.2882
+    Prior variance = 255.7797, inverse softmax temp = 299.3977, bic = 273.4315
+    Prior variance = 264.3065, inverse softmax temp = ... Fitting model 11 (fmri data? 1 fixed effects? 0 which structs [0 1 0 0])
+Subject 1
+Subject 2
+Subject 3
+Subject 4
+Subject 5
+Subject 6
+Subject 7
+Subject 8
+Subject 9
+Subject 10
+Subject 11
+Subject 12
+Subject 13
+Subject 14
+Subject 15
+Subject 16
+Subject 17
+Subject 18
+Subject 19
+Subject 20
+    Prior variance = 1.0000, inverse softmax temp = 1.0000, bic = 192.1439
+    Prior variance = 192.2081, inverse softmax temp = 165.8044, bic = 208.8507
+    Prior variance = 296.6213, inverse softmax temp = 234.6936, bic = 214.8636
+    Prior variance = 165.6777, inverse softmax temp = 139.5974, bic = 249.2214
+    Prior variance = 239.6651, inverse softmax temp = 192.1963, bic = 114.6646
+    Prior variance = 208.7373, inverse softmax temp = 157.5582, bic = 211.9314
+    Prior variance = 139.5435, inverse softmax temp = 208.8328, bic = 217.8322
+    Prior variance = 148.6350, inverse softmax temp = ... Fitting model 12 (fmri data? 1 fixed effects? 0 which structs [0 0 1 0])
+Subject 1
+Subject 2
+Subject 3
+Subject 4
+Subject 5
+Subject 6
+Subject 7
+Subject 8
+Subject 9
+Subject 10
+Subject 11
+Subject 12
+Subject 13
+Subject 14
+Subject 15
+Subject 16
+Subject 17
+Subject 18
+Subject 19
+Subject 20
+    Prior variance = 0.0212, inverse softmax temp = 0.3431, bic = 237.4165
+    Prior variance = 246.2761, inverse softmax temp = 227.4339, bic = 238.6880
+    Prior variance = 291.7530, inverse softmax temp = 251.8580, bic = 196.4790
+    Prior variance = 187.3227, inverse softmax temp = 207.5016, bic = 268.5435
+    Prior variance = 237.4748, inverse softmax temp = 218.5191, bic = 167.7490
+    Prior variance = 227.9824, inverse softmax temp = 213.5537, bic = 258.2987
+    Prior variance = 168.9439, inverse softmax temp = 263.1079, bic = 196.7378
+    Prior variance = 176.7371, inverse softmax temp = 
+
+ ------- fmri_data? 1, fixed effects? 1 ----------
+
+... Fitting model 13 (fmri data? 1 fixed effects? 1 which structs [1 1 1 0])
+Subject 1
+    Prior variance = 0.1206, inverse softmax temp = 1.9505, bic = 3476.7244
+... Fitting model 14 (fmri data? 1 fixed effects? 1 which structs [1 0 0 0])
+Subject 1
+    Prior variance = 0.0331, inverse softmax temp = 1.0723, bic = 5406.4035
+... Fitting model 15 (fmri data? 1 fixed effects? 1 which structs [0 1 0 0])
+Subject 1
+    Prior variance = 1.0000, inverse softmax temp = 1.6518, bic = 3838.1507
+... Fitting model 16 (fmri data? 1 fixed effects? 1 which structs [0 0 1 0])
+Subject 1
+    Prior variance = 0.0270, inverse softmax temp = 1.6535, bic = 4396.1381
